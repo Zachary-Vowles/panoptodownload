@@ -12,7 +12,7 @@ A Python script to download videos from Panopto folders using Playwright for bro
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/panoptodownload.git
+   git clone https://github.com/zach-ath/panoptodownload.git
    cd panoptodownload
    ```
 
